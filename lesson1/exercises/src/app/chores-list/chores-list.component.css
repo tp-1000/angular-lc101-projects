@@ -1,0 +1,9 @@
+#choreHeading{
+    text-decoration: underline;
+}
+
+li {
+    font-family: "Georgia";
+    color: grey;
+    font-style: italic;
+}
